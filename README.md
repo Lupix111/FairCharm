@@ -7,7 +7,8 @@ For this project you're gonna need a grand total of 4 pieces of hardware (not co
 - 1xTP4056.
 - 1x500Mah LiPo battery.
 - 1x Big red (or any colour really) button, the 12x12mm clicky ones.
-
+- 1x Passive Buzzer (new feature of the v1.4 Body!)
+  
 You'll also need some 3D printed parts so you're either gonna have to buy them OR ask a friend that got one.
  
 I'll post the .ino file soon, as of right now there's the template to customize the back and the front of the camera, you just need GIMP and some sort of idea on what to put there, after that it's only scissors, glue and...voilà! And there's the STL files for the body of the camera.
