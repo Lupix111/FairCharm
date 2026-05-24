@@ -4,7 +4,8 @@ A pocket camera that fits in your palm and can hang from your bag like a charm! 
 Just an ESP32-CAM project that came to my mind when I saw a certain company make these poket cameras with a 1.6 megapixel camera that are kinda trash and way too stupidly expensive. 
 For this project you're gonna need a grand total of 4 pieces of hardware (not counting the wires):
 - 1xESP32-CAM.
-- 1xTP4056.
+- Charging module with a boost converter to 5V (initially planned to use a TP4056 but quickly found out that the ESP32-CAM needs 5v to function properly)
+  [I now am the prowd owner of 10 useless TP4056 modules]
 - 1x500Mah LiPo battery.
 - 1x Big red (or any colour really) button, the 12x12mm clicky ones.
 - 1x Passive Buzzer (new feature of the v1.4 Body!)
