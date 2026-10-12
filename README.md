@@ -1,7 +1,7 @@
 # FairCharm
 A pocket camera that fits in your palm and can hang from your bag like a charm! It's fair because it's open-source and free for everyone.
 
-The people at PCBWay decided to help me out with the printed ciruitboard, shoutout to Aran and the fine people that work at PCBWay, they're providing me with a tight and clean PCB that will make this project free of any tangled and messed up wirenest. Go to PCBWay to get the PCB for the best price ever!
+**The people at PCBWay decided to help me out with the printed ciruitboard, shoutout to Aran and the fine people that work at PCBWay, they're providing me with a tight and clean PCB that will make this project free of any tangled and messed up wirenest. Go to PCBWay to get the PCB for the best price ever!**
 
 Just an ESP32-CAM project that came to my mind when I saw a certain company make these poket cameras with a 1.6 megapixel camera that are kinda trash and way too stupidly expensive. 
 For this project you're gonna need a grand total of 4 pieces of hardware (not counting the wires):
