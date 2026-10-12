@@ -1,6 +1,6 @@
+# FairCharm
 
 <img width="972" height="651" alt="FairCharm" src="https://github.com/user-attachments/assets/00c2e63d-2ba9-4805-85c5-c2b35edb9aee" />
-# FairCharm
 A pocket camera that fits in your palm and can hang from your bag like a charm! It's fair because it's open-source and free for everyone.
 
 **The people at PCBWay decided to help me out with the printed ciruitboard, shoutout to Aran and the fine people that work at PCBWay, they're providing me with a tight and clean PCB that will make this project free of any tangled and messed up wirenest. Go to PCBWay to get the PCB for the best price ever!**
