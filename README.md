@@ -32,8 +32,8 @@ For this project you're gonna need a grand total of 9 pieces of hardware (not co
 - 1x **microSD card**, formatted as FAT32. The ESP32-CAM datasheet officially says up to 4GB, bigger cards usually work too but test yours before trusting it.
 - 1x **FairCharm PCB** (optional but highly suggested, it's much easier to use the PCB than doing it by hand).
 - 1x **small 6x6 tactile switch** for the power button. 
-- 1x **SMD or THT Capacitor, 10v 330uF, 6.3x5.4**
-You'll also need some **3D printed parts** so you're either gonna have to buy them OR ask a friend that got a printer.
+- 1x **SMD or THT Capacitor, 10v 330uF, 6.3x5.4**.
+- You'll also need some **3D printed parts** so you're either gonna have to buy them OR ask a friend that got a printer.
 
 There's also a **template to customize the back and the front** of the camera, you just need GIMP and some sort of idea on what to put there, after that it's only scissors, glue and...voilà! And there's the **STL files** for the body of the camera. 
 
